@@ -4,7 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.phara0h.bootyboi",
     "sha256_cert_fingerprints":
-    ["9C:60:73:6C:7E:CB:33:95:02:D0:94:39:4F:F7:4D:0B:5A:8F:B1:0B:30:BB:BF:8D:39:3C:08:A5:4D:20:0F:90"]
+    ["9C:60:73:6C:7E:CB:33:95:02:D0:94:39:4F:F7:4D:0B:5A:8F:B1:0B:30:BB:BF:8D:39:3C:08:A5:4D:20:0F:90","88:D6:79:45:3E:A1:94:E2:79:85:64:16:52:72:92:21:A5:11:8E:06:D2:65:64:E7:75:47:7D:01:10:8B:38:DB"]
   }
 },{
   "relation": ["delegate_permission/common.handle_all_urls"],
